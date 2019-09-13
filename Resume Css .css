@@ -1,22 +1,73 @@
 @charset "utf-8";
 
 
-/* Global styles 
-------------------------------------*/
-body {
-    background: #21E787;
+
+
+
+body header p {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    
+}
+
+main section p {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+body footer p {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: italic;
+}
+body footer div {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+footer div a {
+    padding-right: 10px;
+}
+footer div a2 {
+    padding-right: 10px;
+}
+body footer div a3 {
+    padding-right: 10px;
+}
+body footer div a4 {
+    padding-right: 10px;
+    border-radius: 10px;
+}
+body header img {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
 }
 
 
-/* Header & Footer 
-------------------------------------*/
 
 
 
-/* Work Experience
-------------------------------------*/
 
-
-
-/* Education
-------------------------------------*/
+main section h3 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+body footer h2 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+main section h2 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+body header h2 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+body header h1 {
+    font-family: aguafina-script;
+    font-style: normal;
+    font-size: 550%;
+    text-shadow: 0px 0px 3px;
+    width: 50%;
+}
+header {
+    background-color: #A5CCD1;
+}
+footer {
+    background-color: #A5CCD1;
+    text-align: center;body main section {
+}
